@@ -55,9 +55,9 @@ export const navLinks = [
 ] as const;
 
 export const stats = [
-  { value: 3400, suffix: "+", label: "Individuals sequenced in IHMI phase I" },
+  { value: 4000, suffix: "+", label: "Individuals sequenced so far" },
   { value: 17, suffix: "", label: "Endogamous populations sampled" },
-  { value: 20000, suffix: "", label: "Target cohort for phase II" },
+  { value: 20000, suffix: "", label: "Target cohort for phase II of IHMI" },
   { value: 5, suffix: "", label: "Active research tracks" },
 ];
 
@@ -65,10 +65,9 @@ export const marqueeWords = [
   "Metagenomics",
   "Culturomics",
   "Metabolomics",
-  "16S rRNA",
+  "Amplicon sequencing",
   "Gut–Brain Axis",
-  "INSACOG",
-  "Anaerobic isolation",
+  "Anaerobic cultivation",
   "Multi-omics",
   "Indian Microbiome",
 ];
