@@ -62,14 +62,9 @@ export const stats = [
 ];
 
 export const marqueeWords = [
-  "Metagenomics",
-  "Culturomics",
-  "Metabolomics",
-  "Amplicon sequencing",
-  "Gut–Brain Axis",
-  "Anaerobic cultivation",
-  "Multi-omics",
-  "Indian Microbiome",
+  "Code",
+  "Culture",
+  "Community",
 ];
 
 export const methods = [
