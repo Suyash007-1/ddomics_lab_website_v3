@@ -827,15 +827,12 @@ export const people: Person[] = [
     group: "scientist",
     photo: photoNirajRane,
   },
-  { slug: "mitali-inamdar", name: "Mitali Inamdar", role: "Ph.D. Student", group: "student" },
   {
-    slug: "suyash-jadhav",
-    name: "Suyash Jadhav",
+    slug: "bhagyashree-karmarkar",
+    name: "Bhagyashree Karmarkar",
     role: "Ph.D. Student",
-    group: "student",
-    photo: photoSuyashJadhav,
+    group: "student"
   },
-  { slug: "puja-ghosh", name: "Puja Ghosh", role: "Ph.D. Student", group: "student" },
   {
     slug: "harshada-pardeshi",
     name: "Harshada Pardeshi",
@@ -843,14 +840,31 @@ export const people: Person[] = [
     group: "student",
     photo: photoHarshadaPardeshi,
   },
+  { 
+    slug: "mitali-inamdar", 
+    name: "Mitali Inamdar", 
+    role: "Ph.D. Student", 
+    group: "student" 
+  },
+  { 
+    slug: "puja-ghosh", 
+    name: "Puja Ghosh", 
+    role: "Ph.D. Student", 
+    group: "student" 
+  },
   {
-    slug: "bhagyashree-karmarkar",
-    name: "Bhagyashree Karmarkar",
+    slug: "suyash-jadhav",
+    name: "Suyash Jadhav",
     role: "Ph.D. Student",
     group: "student",
-    photo: photoBhagyashreeKarmarkar,
+    photo: photoSuyashJadhav,
   },
-  { slug: "hemangini-mahadeo", name: "Hemangini Mahadeo", role: "Technical Officer", group: "staff" },
+  { 
+    slug: "hemangini-mahadeo", 
+    name: "Hemangini Mahadeo", 
+    role: "Technical Officer", 
+    group: "staff" 
+  },
   {
     slug: "tanaya-ghanvatkar",
     name: "Tanaya Ghanvatkar",
