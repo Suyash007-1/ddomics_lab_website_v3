@@ -837,8 +837,7 @@ export const people: Person[] = [
     slug: "harshada-pardeshi",
     name: "Harshada Pardeshi",
     role: "Ph.D. Student",
-    group: "student",
-    photo: photoHarshadaPardeshi,
+    group: "student"
   },
   { 
     slug: "mitali-inamdar", 
@@ -869,8 +868,7 @@ export const people: Person[] = [
     slug: "tanaya-ghanvatkar",
     name: "Tanaya Ghanvatkar",
     role: "Project Staff",
-    group: "staff",
-    photo: photoTanayaGhanvatkar,
+    group: "staff"
   },
 ];
 
