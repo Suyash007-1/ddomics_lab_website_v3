@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://suyash007-1.github.io/ddomics_lab_website_v3/sitemap.xml
