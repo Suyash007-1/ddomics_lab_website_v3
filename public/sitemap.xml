@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Update SITE_URL in src/components/SEO.tsx and the domain below together —
+  they must match exactly (including www vs non-www) or Google will treat
+  canonical tags and sitemap entries as contradicting each other.
+  Add a new <url> block here whenever a new route is added to the app.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.ddomicslab.in/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/research</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/publications</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/dhiraj-dhotre</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/niraj-rane</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/bhagyashree-karmarkar</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/harshada-pardeshi</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/mitali-inamdar</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/puja-ghosh</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/suyash-jadhav</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/hemangini-mahadeo</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/people/tanaya-ghanvatkar</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/news</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.ddomicslab.in/join</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
